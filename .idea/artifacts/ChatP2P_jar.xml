@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatP2P:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatP2P_jar</output-path>
+    <root id="archive" name="ChatP2P.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ChatP2P" />
+    </root>
+  </artifact>
+</component>
